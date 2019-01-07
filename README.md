@@ -2,5 +2,5 @@
 交换生系统
 
 # 说明
-基于vue2.0+vuerouter+一点点vuex的交换生系统前段
+基于vue2.0+vuerouter+一点点vuex的交换生系统前端
 
